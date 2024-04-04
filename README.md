@@ -1,5 +1,3 @@
-May contain errors, chatgpt created it
-
 ### QueryForge
 
 QueryForge is a TypeScript library that provides a flexible and type-safe way to compose SQL queries dynamically. With QueryForge, you can easily construct SELECT, INSERT, UPDATE, and DELETE queries using TypeScript code.
